@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_trending">Trending</string>
+    <string name="title_subscriptions">Subscriptions</string>
+    <string name="title_inbox">Inbox</string>
+    <string name="title_library">Library</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Home_fragment">Home Fragment</string>
+    <string name="Trending_fragment">Trending Fragment</string>
+    <string name="Subscriptions_fragment">Subscriptions Fragment</string>
+    <string name="Inbox_fragment">Inbox Fragment</string>
+    <string name="Library_fragment">Library Fragment</string>
+
+
+</resources>
